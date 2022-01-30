@@ -1,0 +1,28 @@
+.navbar-brand{
+margin-left: 50px;
+margin-top: 15px;
+
+}
+
+.navbar-nav{
+  
+float: right;
+padding-top: 30px;
+margin-left: 360px;
+font-weight: 500;
+padding-right: 50px;
+  }
+
+  .d-flex{
+
+    padding-top: 30px;
+    margin-right: 50px;
+    margin-left: 20px;
+    
+
+  }
+
+  .btn{
+    padding:8px 32px;
+
+  }
